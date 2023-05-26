@@ -1,3 +1,5 @@
+// To communicate with database we use ORM (Object Relational Mapping) e.g. PRISMA or POSTGRES of Vercel
+
 import Image from 'next/image'
 
 export default function Home() {
